@@ -1,0 +1,22 @@
+{
+  "name": "MetaConfigService",
+  "version": "0.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.9.3",
+    "express": "^4.10.4",
+    "mongojs": "^0.17.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.8.10",
+    "gulp-develop-server": "^0.2.5",
+    "gulp-livereload": "^3.2.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
