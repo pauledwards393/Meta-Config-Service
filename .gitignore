@@ -2,6 +2,3 @@
 /.idea
 /iisnode
 /node_modules
-
-# Files
-config.js
